@@ -1,0 +1,6 @@
+{
+  "description": "",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
